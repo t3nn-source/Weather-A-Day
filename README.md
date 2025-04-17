@@ -53,9 +53,9 @@ Delete history entries as needed.
 ## Questions
 If you have any questions, feel free to reach out:
 
-+ GitHub: t3nn_source
++ [Github](https://github.com/t3nn-source) https://github.com/t3nn-source
 + Email: jamesleel.2002@gmail.com
 ## Acknowledgements
 
- - [Special thank you to OpenWeather](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Special thank you to OpenWeather](https://openweathermap.org/)
 
