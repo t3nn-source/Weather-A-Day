@@ -26,7 +26,7 @@ Weather A Day is a  web application that allows users to search for the current 
 
 ## Usage
 
-You can get started by visiting the link to the [Deployed Site]()
+You can get started by visiting the link to the [Deployed Site](https://weather-a-day.onrender.com/)
 
 Type in a city name and press enter to fetch the weather.
 
@@ -41,6 +41,9 @@ Delete history entries as needed.
 
 
 ### Deployed application link
+[Weather A DAY](https://weather-a-day.onrender.com/)
+
+    https://weather-a-day.onrender.com/
 
 ## License
 
